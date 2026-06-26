@@ -1,6 +1,25 @@
+<p align="center">
+  <img src="assets/project-banner.svg" alt="Content Trend Analyzer banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Content%20Analytics-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platforms-TikTok%20%7C%20YouTube-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methods-Tagging%20%7C%20Engagement%20Rate%20%7C%20Trend%20Hypotheses-7C3AED?style=flat-square" />
+</p>
+
 # TikTok / YouTube Content Trend Analyzer
 
 A content analytics project for studying short-form video trends, engagement patterns, topic tags, and repeatable content hypotheses.
+
+## At a Glance
+
+| Item | Detail |
+| --- | --- |
+| Role fit | AI operations, content operations, product analytics |
+| Core value | Turns content observations into a measurable trend analysis workflow |
+| Main skills | Tag taxonomy, engagement metrics, qualitative-to-quantitative analysis |
+| Recruiter signal | Understands platform feedback loops and content experimentation |
 
 ## Project Background
 
