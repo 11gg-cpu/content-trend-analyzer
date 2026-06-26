@@ -27,6 +27,15 @@ A content analytics project for studying short-form video trends, engagement pat
   <img src="assets/workflow-preview.svg" alt="Content trend analyzer workflow preview" width="100%" />
 </p>
 
+## Screenshot & Data Output
+
+<p align="center">
+  <img src="screenshots/content-dashboard.svg" alt="Content trend analytics dashboard preview" width="100%" />
+</p>
+
+- Sample metrics dataset: [`data/sample_content_metrics.csv`](data/sample_content_metrics.csv)
+- Trend report: [`reports/trend-report.md`](reports/trend-report.md)
+
 ## Project Background
 
 Short-form content platforms reward fast testing, clear positioning, and strong feedback loops. This project packages my experience with TikTok, YouTube, and overseas content platforms into a structured analytics workflow.

@@ -1,0 +1,26 @@
+<svg width="1100" height="620" viewBox="0 0 1100 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1100" height="620" rx="24" fill="#F8FAFC"/>
+  <rect x="36" y="32" width="1028" height="556" rx="20" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="70" y="86" fill="#0F172A" font-family="Inter, Arial" font-size="28" font-weight="800">Content Trend Analytics Preview</text>
+  <text x="70" y="118" fill="#64748B" font-family="Inter, Arial" font-size="15">Sample dashboard for short-form content tagging and engagement comparison.</text>
+  <rect x="70" y="154" width="298" height="120" rx="16" fill="#FCE7F3"/>
+  <text x="96" y="198" fill="#831843" font-family="Inter, Arial" font-size="16" font-weight="700">Best Format</text>
+  <text x="96" y="240" fill="#831843" font-family="Inter, Arial" font-size="34" font-weight="800">Ranking</text>
+  <rect x="402" y="154" width="298" height="120" rx="16" fill="#EDE9FE"/>
+  <text x="428" y="198" fill="#4C1D95" font-family="Inter, Arial" font-size="16" font-weight="700">Top Topic</text>
+  <text x="428" y="240" fill="#4C1D95" font-family="Inter, Arial" font-size="34" font-weight="800">Gaming</text>
+  <rect x="734" y="154" width="290" height="120" rx="16" fill="#DBEAFE"/>
+  <text x="760" y="198" fill="#1E3A8A" font-family="Inter, Arial" font-size="16" font-weight="700">Engagement Lift</text>
+  <text x="760" y="240" fill="#1E3A8A" font-family="Inter, Arial" font-size="34" font-weight="800">+34%</text>
+  <rect x="70" y="316" width="954" height="200" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text x="96" y="356" fill="#0F172A" font-family="Inter, Arial" font-size="18" font-weight="800">Engagement by Content Format</text>
+  <line x1="124" y1="466" x2="950" y2="466" stroke="#CBD5E1"/>
+  <rect x="162" y="398" width="90" height="68" fill="#F9A8D4"/>
+  <rect x="342" y="360" width="90" height="106" fill="#F472B6"/>
+  <rect x="522" y="386" width="90" height="80" fill="#C084FC"/>
+  <rect x="702" y="338" width="90" height="128" fill="#60A5FA"/>
+  <text x="146" y="494" fill="#64748B" font-family="Inter, Arial" font-size="13">Story</text>
+  <text x="326" y="494" fill="#64748B" font-family="Inter, Arial" font-size="13">Tutorial</text>
+  <text x="506" y="494" fill="#64748B" font-family="Inter, Arial" font-size="13">Compare</text>
+  <text x="690" y="494" fill="#64748B" font-family="Inter, Arial" font-size="13">Ranking</text>
+</svg>
