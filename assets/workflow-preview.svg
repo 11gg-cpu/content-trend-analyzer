@@ -1,0 +1,13 @@
+<svg width="1100" height="360" viewBox="0 0 1100 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1100" height="360" rx="24" fill="#F8FAFC"/>
+  <rect x="42" y="38" width="1016" height="284" rx="20" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="72" y="88" fill="#0F172A" font-family="Inter, Arial" font-size="26" font-weight="800">Content Trend Analysis Loop</text>
+  <text x="72" y="122" fill="#64748B" font-family="Inter, Arial" font-size="15">From platform observation to tagged content experiments.</text>
+  <path d="M104 242C214 158 326 196 438 146C550 96 660 130 770 188C880 246 970 180 1010 154" stroke="#DB2777" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <g font-family="Inter, Arial" font-size="15" font-weight="700">
+    <text x="90" y="286" fill="#831843">Collect videos</text>
+    <text x="310" y="286" fill="#831843">Tag hooks</text>
+    <text x="520" y="286" fill="#831843">Calculate engagement</text>
+    <text x="790" y="286" fill="#831843">Build hypotheses</text>
+  </g>
+</svg>

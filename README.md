@@ -21,6 +21,12 @@ A content analytics project for studying short-form video trends, engagement pat
 | Main skills | Tag taxonomy, engagement metrics, qualitative-to-quantitative analysis |
 | Recruiter signal | Understands platform feedback loops and content experimentation |
 
+## Workflow Preview
+
+<p align="center">
+  <img src="assets/workflow-preview.svg" alt="Content trend analyzer workflow preview" width="100%" />
+</p>
+
 ## Project Background
 
 Short-form content platforms reward fast testing, clear positioning, and strong feedback loops. This project packages my experience with TikTok, YouTube, and overseas content platforms into a structured analytics workflow.
@@ -80,3 +86,13 @@ content-trend-analyzer/
 ## Resume Bullet
 
 - Built a content trend analysis framework for TikTok and YouTube-style videos, combining tagging, engagement-rate metrics, and AI-assisted insight synthesis to identify repeatable content patterns.
+
+## Next Improvements
+
+- Add a notebook that calculates engagement rate and completion proxy.
+- Add a dashboard screenshot for platform comparison.
+- Add more examples of content hooks and tag categories.
+
+## Contact
+
+For questions or collaboration: [steventang30999@gmail.com](mailto:steventang30999@gmail.com)
